@@ -1,11 +1,11 @@
 (function () {
   // TODO edit
-  const baseUrl = '/scannedImgViewer';
+  const baseUrl = '/1931TaijitToaSutian1';
   const dataFolderPath = '/chuliau';
-  const dataNamePrefix = '/TJTST1_';
+  const dataNamePrefix = '/1931TaijitToaSutian1_Page_';
   const dataNameNumberCount = 3;
   const dataNameSuffix = '.jpg';
-  const lastPageNumber = 12;
+  const lastPageNumber = 892;
 
   let imgSources = [];
   const imgSourcesMin = 1;
